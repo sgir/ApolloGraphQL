@@ -1,3 +1,7 @@
 node_modules
 .DS_Store
 .env
+start/.idea/encodings.xml
+start/.idea/misc.xml
+start/.idea/start.iml
+*.xml
